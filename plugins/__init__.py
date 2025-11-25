@@ -1,35 +1,11 @@
 from pyrogram import filters, Client as bot
-from modules import awadhfree 
-from modules import ifasfree
-from modules import verbalfree
-from modules import cdsfree
-from modules import icsfree
-from modules import pw
-from modules import khan
-from modules import kd
-from modules import cp
-from modules import neon
-from modules import  appx_master
-from modules import testlivefree
-from modules import utk
-from modules import kaksha
-from modules import pwfree
-from modules import khanfree
-from modules import iq
-from modules import vision
-from modules import nidhi
-from modules import cpfree
-from modules import allen
-from modules import iqfree
-from modules import ifas
-from modules import pathfree
-from modules import allenv2
-from modules import abhinavfree
-from modules import vajiram
-from modules import qualityfree
-from modules import jrffree
-from modules import cw
-from modules import nlogin
+from module import (
+   awadhfree, ifasfree, verbalfree, cdsfree, icsfree, pw, khan, kd, cp, neon,
+    appx_master, testlivefree, utk, kaksha, pwfree, khanfree, iq,
+    vision, nidhi, cpfree, allen, iqfree, ifas, pathfree,
+    allenv2, abhinavfree, vajiram, qualityfree, jrffree, cw, nlogin
+)
+
 
 import master.key as key, msg
 from config import Config
