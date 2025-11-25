@@ -7,7 +7,7 @@ from modules import icsfree
 from modules import pw
 from modules import khan
 from modules import kd
-from modules importcp
+from modules import cp
 from modules import neon
 from modules import  appx_master
 from modules import testlivefree
