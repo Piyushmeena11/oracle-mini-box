@@ -32,7 +32,7 @@ This is a Telegram bot that extracts URLs from text files. It supports a variety
 
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Ayus444/Naruto-Extractor-/tree/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Piyushmeena11/oracle-mini-box.git)
 
 
 ## Note
