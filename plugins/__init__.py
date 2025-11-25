@@ -1,6 +1,6 @@
 from pyrogram import filters, Client as bot
-from modules import awadhfree.py 
-from modules import(
+from modules import awadhfree 
+from modules import
     ifasfree, verbalfree, cdsfree, icsfree, pw, khan, kd, cp, neon,
     appx_master, testlivefree, utk, kaksha, pwfree, khanfree, iq,
     vision, nidhi, cpfree, allen, iqfree, ifas, pathfree,
